@@ -1,4 +1,5 @@
 # taller05
+# Integrantes: Luis Aguilar - Victor Mendoza
 
 ## Integración de datos y uso de CouchDB
 
