@@ -79,5 +79,15 @@ La aplicación será accesible a través de la dirección local: `http://localho
 
 ## Imagenes del correcto funcionamiento de la pagina, con las diferentes vistas funcionando
 
+### Vistas por club
 
+![Ejecución de scripts](img/Captura%20desde%202026-05-07%2012-35-45.png)
+
+### Vistas por partido
+
+![Vistas en CouchDB](img/Captura%20desde%202026-05-07%2012-36-36.png)
+
+### Vsta por goles
+
+![Frontend Funcionando](img/Captura%20desde%202026-05-07%2012-36-44.png)
 
