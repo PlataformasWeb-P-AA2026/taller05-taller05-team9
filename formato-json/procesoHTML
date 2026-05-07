@@ -1,0 +1,27 @@
+from bs4 import BeautifulSoup
+import json
+
+def extraer_html():
+    with open('../data/fuente_html_europa.html', 'r', encoding='utf-8') as f:
+        soup = BeautifulSoup(f, 'html.parser')
+    
+    jugadores = []
+    tabla = soup.find('table')
+    # Ajusta los índices según las columnas de tu archivo HTML real
+    for fila in tabla.find_all('tr')[1:]:
+        cols = fila.find_all('td')
+        if len(cols) >= 4:
+            jugadores.append({
+                "nombre": cols[0].text.strip(),
+                "club_actual": cols[1].text.strip(),
+                "goles": int(cols[2].text.strip()),
+                "partidos": int(cols[3].text.strip()),
+                "seleccion": "Europa"
+            })
+    
+    with open('temp_europa.json', 'w') as f:
+        json.dump(jugadores, f)
+    print("HTML procesado: temp_europa.json creado.")
+
+if __name__ == "__main__":
+    extraer_html()
