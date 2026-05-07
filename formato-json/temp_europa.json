@@ -1,0 +1,322 @@
+[
+    {
+        "nombre": "Espa\u00f1a_Jugador_0",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Portero",
+        "goles": 28,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_1",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Portero",
+        "goles": 26,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_2",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Defensa",
+        "goles": 20,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_3",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Delantero",
+        "goles": 33,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_4",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Mediocampista",
+        "goles": 22,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_5",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Delantero",
+        "goles": 24,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_6",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Mediocampista",
+        "goles": 18,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_7",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Defensa",
+        "goles": 18,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_8",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Defensa",
+        "goles": 21,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Espa\u00f1a_Jugador_9",
+        "club_actual": "Espa\u00f1a",
+        "posicion": "Delantero",
+        "goles": 26,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_0",
+        "club_actual": "Francia",
+        "posicion": "Defensa",
+        "goles": 20,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_1",
+        "club_actual": "Francia",
+        "posicion": "Delantero",
+        "goles": 34,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_2",
+        "club_actual": "Francia",
+        "posicion": "Delantero",
+        "goles": 21,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_3",
+        "club_actual": "Francia",
+        "posicion": "Delantero",
+        "goles": 18,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_4",
+        "club_actual": "Francia",
+        "posicion": "Portero",
+        "goles": 32,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_5",
+        "club_actual": "Francia",
+        "posicion": "Delantero",
+        "goles": 31,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_6",
+        "club_actual": "Francia",
+        "posicion": "Defensa",
+        "goles": 32,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_7",
+        "club_actual": "Francia",
+        "posicion": "Delantero",
+        "goles": 22,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_8",
+        "club_actual": "Francia",
+        "posicion": "Defensa",
+        "goles": 26,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Francia_Jugador_9",
+        "club_actual": "Francia",
+        "posicion": "Defensa",
+        "goles": 34,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_0",
+        "club_actual": "Inglaterra",
+        "posicion": "Delantero",
+        "goles": 20,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_1",
+        "club_actual": "Inglaterra",
+        "posicion": "Portero",
+        "goles": 26,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_2",
+        "club_actual": "Inglaterra",
+        "posicion": "Portero",
+        "goles": 26,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_3",
+        "club_actual": "Inglaterra",
+        "posicion": "Portero",
+        "goles": 20,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_4",
+        "club_actual": "Inglaterra",
+        "posicion": "Portero",
+        "goles": 20,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_5",
+        "club_actual": "Inglaterra",
+        "posicion": "Portero",
+        "goles": 18,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_6",
+        "club_actual": "Inglaterra",
+        "posicion": "Defensa",
+        "goles": 28,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_7",
+        "club_actual": "Inglaterra",
+        "posicion": "Defensa",
+        "goles": 34,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_8",
+        "club_actual": "Inglaterra",
+        "posicion": "Defensa",
+        "goles": 19,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Inglaterra_Jugador_9",
+        "club_actual": "Inglaterra",
+        "posicion": "Defensa",
+        "goles": 19,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_0",
+        "club_actual": "Holanda",
+        "posicion": "Portero",
+        "goles": 29,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_1",
+        "club_actual": "Holanda",
+        "posicion": "Mediocampista",
+        "goles": 19,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_2",
+        "club_actual": "Holanda",
+        "posicion": "Portero",
+        "goles": 30,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_3",
+        "club_actual": "Holanda",
+        "posicion": "Delantero",
+        "goles": 27,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_4",
+        "club_actual": "Holanda",
+        "posicion": "Mediocampista",
+        "goles": 27,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_5",
+        "club_actual": "Holanda",
+        "posicion": "Portero",
+        "goles": 31,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_6",
+        "club_actual": "Holanda",
+        "posicion": "Mediocampista",
+        "goles": 30,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_7",
+        "club_actual": "Holanda",
+        "posicion": "Delantero",
+        "goles": 25,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_8",
+        "club_actual": "Holanda",
+        "posicion": "Defensa",
+        "goles": 35,
+        "partidos": 0,
+        "seleccion": "Europa"
+    },
+    {
+        "nombre": "Holanda_Jugador_9",
+        "club_actual": "Holanda",
+        "posicion": "Portero",
+        "goles": 29,
+        "partidos": 0,
+        "seleccion": "Europa"
+    }
+]

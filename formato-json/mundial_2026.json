@@ -1,0 +1,916 @@
+{
+    "docs": [
+        {
+            "nombre": "España_Jugador_0",
+            "club_actual": "España",
+            "posicion": "Portero",
+            "goles": 28,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_1",
+            "club_actual": "España",
+            "posicion": "Portero",
+            "goles": 26,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_2",
+            "club_actual": "España",
+            "posicion": "Defensa",
+            "goles": 20,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_3",
+            "club_actual": "España",
+            "posicion": "Delantero",
+            "goles": 33,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_4",
+            "club_actual": "España",
+            "posicion": "Mediocampista",
+            "goles": 22,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_5",
+            "club_actual": "España",
+            "posicion": "Delantero",
+            "goles": 24,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_6",
+            "club_actual": "España",
+            "posicion": "Mediocampista",
+            "goles": 18,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_7",
+            "club_actual": "España",
+            "posicion": "Defensa",
+            "goles": 18,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_8",
+            "club_actual": "España",
+            "posicion": "Defensa",
+            "goles": 21,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "España_Jugador_9",
+            "club_actual": "España",
+            "posicion": "Delantero",
+            "goles": 26,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_0",
+            "club_actual": "Francia",
+            "posicion": "Defensa",
+            "goles": 20,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_1",
+            "club_actual": "Francia",
+            "posicion": "Delantero",
+            "goles": 34,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_2",
+            "club_actual": "Francia",
+            "posicion": "Delantero",
+            "goles": 21,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_3",
+            "club_actual": "Francia",
+            "posicion": "Delantero",
+            "goles": 18,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_4",
+            "club_actual": "Francia",
+            "posicion": "Portero",
+            "goles": 32,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_5",
+            "club_actual": "Francia",
+            "posicion": "Delantero",
+            "goles": 31,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_6",
+            "club_actual": "Francia",
+            "posicion": "Defensa",
+            "goles": 32,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_7",
+            "club_actual": "Francia",
+            "posicion": "Delantero",
+            "goles": 22,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_8",
+            "club_actual": "Francia",
+            "posicion": "Defensa",
+            "goles": 26,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Francia_Jugador_9",
+            "club_actual": "Francia",
+            "posicion": "Defensa",
+            "goles": 34,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_0",
+            "club_actual": "Inglaterra",
+            "posicion": "Delantero",
+            "goles": 20,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_1",
+            "club_actual": "Inglaterra",
+            "posicion": "Portero",
+            "goles": 26,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_2",
+            "club_actual": "Inglaterra",
+            "posicion": "Portero",
+            "goles": 26,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_3",
+            "club_actual": "Inglaterra",
+            "posicion": "Portero",
+            "goles": 20,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_4",
+            "club_actual": "Inglaterra",
+            "posicion": "Portero",
+            "goles": 20,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_5",
+            "club_actual": "Inglaterra",
+            "posicion": "Portero",
+            "goles": 18,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_6",
+            "club_actual": "Inglaterra",
+            "posicion": "Defensa",
+            "goles": 28,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_7",
+            "club_actual": "Inglaterra",
+            "posicion": "Defensa",
+            "goles": 34,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_8",
+            "club_actual": "Inglaterra",
+            "posicion": "Defensa",
+            "goles": 19,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Inglaterra_Jugador_9",
+            "club_actual": "Inglaterra",
+            "posicion": "Defensa",
+            "goles": 19,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_0",
+            "club_actual": "Holanda",
+            "posicion": "Portero",
+            "goles": 29,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_1",
+            "club_actual": "Holanda",
+            "posicion": "Mediocampista",
+            "goles": 19,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_2",
+            "club_actual": "Holanda",
+            "posicion": "Portero",
+            "goles": 30,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_3",
+            "club_actual": "Holanda",
+            "posicion": "Delantero",
+            "goles": 27,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_4",
+            "club_actual": "Holanda",
+            "posicion": "Mediocampista",
+            "goles": 27,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_5",
+            "club_actual": "Holanda",
+            "posicion": "Portero",
+            "goles": 31,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_6",
+            "club_actual": "Holanda",
+            "posicion": "Mediocampista",
+            "goles": 30,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_7",
+            "club_actual": "Holanda",
+            "posicion": "Delantero",
+            "goles": 25,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_8",
+            "club_actual": "Holanda",
+            "posicion": "Defensa",
+            "goles": 35,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Holanda_Jugador_9",
+            "club_actual": "Holanda",
+            "posicion": "Portero",
+            "goles": 29,
+            "partidos": 0,
+            "seleccion": "Europa"
+        },
+        {
+            "nombre": "Ecuador_Jugador_0",
+            "seleccion": "Ecuador",
+            "posicion": "Mediocampista",
+            "edad": 34,
+            "partidos": 62
+        },
+        {
+            "nombre": "Ecuador_Jugador_1",
+            "seleccion": "Ecuador",
+            "posicion": "Mediocampista",
+            "edad": 23,
+            "partidos": 11
+        },
+        {
+            "nombre": "Ecuador_Jugador_2",
+            "seleccion": "Ecuador",
+            "posicion": "Portero",
+            "edad": 23,
+            "partidos": 41
+        },
+        {
+            "nombre": "Ecuador_Jugador_3",
+            "seleccion": "Ecuador",
+            "posicion": "Delantero",
+            "edad": 22,
+            "partidos": 17
+        },
+        {
+            "nombre": "Ecuador_Jugador_4",
+            "seleccion": "Ecuador",
+            "posicion": "Delantero",
+            "edad": 27,
+            "partidos": 31
+        },
+        {
+            "nombre": "Ecuador_Jugador_5",
+            "seleccion": "Ecuador",
+            "posicion": "Mediocampista",
+            "edad": 26,
+            "partidos": 84
+        },
+        {
+            "nombre": "Ecuador_Jugador_6",
+            "seleccion": "Ecuador",
+            "posicion": "Defensa",
+            "edad": 28,
+            "partidos": 69
+        },
+        {
+            "nombre": "Ecuador_Jugador_7",
+            "seleccion": "Ecuador",
+            "posicion": "Defensa",
+            "edad": 35,
+            "partidos": 63
+        },
+        {
+            "nombre": "Ecuador_Jugador_8",
+            "seleccion": "Ecuador",
+            "posicion": "Portero",
+            "edad": 28,
+            "partidos": 4
+        },
+        {
+            "nombre": "Ecuador_Jugador_9",
+            "seleccion": "Ecuador",
+            "posicion": "Delantero",
+            "edad": 33,
+            "partidos": 40
+        },
+        {
+            "nombre": "Colombia_Jugador_0",
+            "seleccion": "Colombia",
+            "posicion": "Mediocampista",
+            "edad": 18,
+            "partidos": 4
+        },
+        {
+            "nombre": "Colombia_Jugador_1",
+            "seleccion": "Colombia",
+            "posicion": "Delantero",
+            "edad": 18,
+            "partidos": 84
+        },
+        {
+            "nombre": "Colombia_Jugador_2",
+            "seleccion": "Colombia",
+            "posicion": "Mediocampista",
+            "edad": 23,
+            "partidos": 0
+        },
+        {
+            "nombre": "Colombia_Jugador_3",
+            "seleccion": "Colombia",
+            "posicion": "Defensa",
+            "edad": 20,
+            "partidos": 18
+        },
+        {
+            "nombre": "Colombia_Jugador_4",
+            "seleccion": "Colombia",
+            "posicion": "Defensa",
+            "edad": 28,
+            "partidos": 55
+        },
+        {
+            "nombre": "Colombia_Jugador_5",
+            "seleccion": "Colombia",
+            "posicion": "Delantero",
+            "edad": 34,
+            "partidos": 8
+        },
+        {
+            "nombre": "Colombia_Jugador_6",
+            "seleccion": "Colombia",
+            "posicion": "Portero",
+            "edad": 30,
+            "partidos": 7
+        },
+        {
+            "nombre": "Colombia_Jugador_7",
+            "seleccion": "Colombia",
+            "posicion": "Delantero",
+            "edad": 28,
+            "partidos": 92
+        },
+        {
+            "nombre": "Colombia_Jugador_8",
+            "seleccion": "Colombia",
+            "posicion": "Delantero",
+            "edad": 22,
+            "partidos": 56
+        },
+        {
+            "nombre": "Colombia_Jugador_9",
+            "seleccion": "Colombia",
+            "posicion": "Defensa",
+            "edad": 28,
+            "partidos": 50
+        },
+        {
+            "nombre": "Argentina_Jugador_0",
+            "seleccion": "Argentina",
+            "posicion": "Portero",
+            "edad": 32,
+            "partidos": 29
+        },
+        {
+            "nombre": "Argentina_Jugador_1",
+            "seleccion": "Argentina",
+            "posicion": "Portero",
+            "edad": 26,
+            "partidos": 52
+        },
+        {
+            "nombre": "Argentina_Jugador_2",
+            "seleccion": "Argentina",
+            "posicion": "Portero",
+            "edad": 24,
+            "partidos": 62
+        },
+        {
+            "nombre": "Argentina_Jugador_3",
+            "seleccion": "Argentina",
+            "posicion": "Portero",
+            "edad": 19,
+            "partidos": 19
+        },
+        {
+            "nombre": "Argentina_Jugador_4",
+            "seleccion": "Argentina",
+            "posicion": "Defensa",
+            "edad": 30,
+            "partidos": 2
+        },
+        {
+            "nombre": "Argentina_Jugador_5",
+            "seleccion": "Argentina",
+            "posicion": "Delantero",
+            "edad": 34,
+            "partidos": 86
+        },
+        {
+            "nombre": "Argentina_Jugador_6",
+            "seleccion": "Argentina",
+            "posicion": "Portero",
+            "edad": 23,
+            "partidos": 92
+        },
+        {
+            "nombre": "Argentina_Jugador_7",
+            "seleccion": "Argentina",
+            "posicion": "Delantero",
+            "edad": 28,
+            "partidos": 91
+        },
+        {
+            "nombre": "Argentina_Jugador_8",
+            "seleccion": "Argentina",
+            "posicion": "Delantero",
+            "edad": 21,
+            "partidos": 78
+        },
+        {
+            "nombre": "Argentina_Jugador_9",
+            "seleccion": "Argentina",
+            "posicion": "Portero",
+            "edad": 29,
+            "partidos": 78
+        },
+        {
+            "nombre": "Brasil_Jugador_0",
+            "seleccion": "Brasil",
+            "posicion": "Portero",
+            "edad": 20,
+            "partidos": 83
+        },
+        {
+            "nombre": "Brasil_Jugador_1",
+            "seleccion": "Brasil",
+            "posicion": "Portero",
+            "edad": 30,
+            "partidos": 63
+        },
+        {
+            "nombre": "Brasil_Jugador_2",
+            "seleccion": "Brasil",
+            "posicion": "Portero",
+            "edad": 18,
+            "partidos": 0
+        },
+        {
+            "nombre": "Brasil_Jugador_3",
+            "seleccion": "Brasil",
+            "posicion": "Portero",
+            "edad": 28,
+            "partidos": 10
+        },
+        {
+            "nombre": "Brasil_Jugador_4",
+            "seleccion": "Brasil",
+            "posicion": "Delantero",
+            "edad": 20,
+            "partidos": 4
+        },
+        {
+            "nombre": "Brasil_Jugador_5",
+            "seleccion": "Brasil",
+            "posicion": "Defensa",
+            "edad": 19,
+            "partidos": 70
+        },
+        {
+            "nombre": "Brasil_Jugador_6",
+            "seleccion": "Brasil",
+            "posicion": "Defensa",
+            "edad": 32,
+            "partidos": 39
+        },
+        {
+            "nombre": "Brasil_Jugador_7",
+            "seleccion": "Brasil",
+            "posicion": "Defensa",
+            "edad": 28,
+            "partidos": 81
+        },
+        {
+            "nombre": "Brasil_Jugador_8",
+            "seleccion": "Brasil",
+            "posicion": "Defensa",
+            "edad": 30,
+            "partidos": 29
+        },
+        {
+            "nombre": "Brasil_Jugador_9",
+            "seleccion": "Brasil",
+            "posicion": "Defensa",
+            "edad": 35,
+            "partidos": 91
+        },
+        {
+            "nombre": "EEUU_Jugador_0",
+            "club_actual": "EEUU",
+            "posicion": "Mediocampista",
+            "goles": 30,
+            "partidos": 40,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_1",
+            "club_actual": "EEUU",
+            "posicion": "Defensa",
+            "goles": 35,
+            "partidos": 47,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_2",
+            "club_actual": "EEUU",
+            "posicion": "Defensa",
+            "goles": 25,
+            "partidos": 17,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_3",
+            "club_actual": "EEUU",
+            "posicion": "Delantero",
+            "goles": 24,
+            "partidos": 22,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_4",
+            "club_actual": "EEUU",
+            "posicion": "Mediocampista",
+            "goles": 32,
+            "partidos": 5,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_5",
+            "club_actual": "EEUU",
+            "posicion": "Mediocampista",
+            "goles": 30,
+            "partidos": 43,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_6",
+            "club_actual": "EEUU",
+            "posicion": "Portero",
+            "goles": 32,
+            "partidos": 40,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_7",
+            "club_actual": "EEUU",
+            "posicion": "Delantero",
+            "goles": 25,
+            "partidos": 43,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_8",
+            "club_actual": "EEUU",
+            "posicion": "Defensa",
+            "goles": 18,
+            "partidos": 50,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "EEUU_Jugador_9",
+            "club_actual": "EEUU",
+            "posicion": "Mediocampista",
+            "goles": 29,
+            "partidos": 44,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_0",
+            "club_actual": "México",
+            "posicion": "Defensa",
+            "goles": 23,
+            "partidos": 23,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_1",
+            "club_actual": "México",
+            "posicion": "Portero",
+            "goles": 33,
+            "partidos": 20,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_2",
+            "club_actual": "México",
+            "posicion": "Portero",
+            "goles": 31,
+            "partidos": 1,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_3",
+            "club_actual": "México",
+            "posicion": "Portero",
+            "goles": 28,
+            "partidos": 16,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_4",
+            "club_actual": "México",
+            "posicion": "Portero",
+            "goles": 20,
+            "partidos": 20,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_5",
+            "club_actual": "México",
+            "posicion": "Defensa",
+            "goles": 20,
+            "partidos": 36,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_6",
+            "club_actual": "México",
+            "posicion": "Mediocampista",
+            "goles": 24,
+            "partidos": 8,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_7",
+            "club_actual": "México",
+            "posicion": "Defensa",
+            "goles": 27,
+            "partidos": 36,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_8",
+            "club_actual": "México",
+            "posicion": "Delantero",
+            "goles": 21,
+            "partidos": 7,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "México_Jugador_9",
+            "club_actual": "México",
+            "posicion": "Mediocampista",
+            "goles": 18,
+            "partidos": 17,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_0",
+            "club_actual": "Canada",
+            "posicion": "Mediocampista",
+            "goles": 32,
+            "partidos": 43,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_1",
+            "club_actual": "Canada",
+            "posicion": "Defensa",
+            "goles": 32,
+            "partidos": 20,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_2",
+            "club_actual": "Canada",
+            "posicion": "Delantero",
+            "goles": 26,
+            "partidos": 42,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_3",
+            "club_actual": "Canada",
+            "posicion": "Defensa",
+            "goles": 32,
+            "partidos": 39,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_4",
+            "club_actual": "Canada",
+            "posicion": "Defensa",
+            "goles": 18,
+            "partidos": 21,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_5",
+            "club_actual": "Canada",
+            "posicion": "Mediocampista",
+            "goles": 27,
+            "partidos": 3,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_6",
+            "club_actual": "Canada",
+            "posicion": "Delantero",
+            "goles": 32,
+            "partidos": 33,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_7",
+            "club_actual": "Canada",
+            "posicion": "Defensa",
+            "goles": 25,
+            "partidos": 33,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_8",
+            "club_actual": "Canada",
+            "posicion": "Mediocampista",
+            "goles": 33,
+            "partidos": 32,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Canada_Jugador_9",
+            "club_actual": "Canada",
+            "posicion": "Mediocampista",
+            "goles": 29,
+            "partidos": 0,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_0",
+            "club_actual": "Iran",
+            "posicion": "Mediocampista",
+            "goles": 35,
+            "partidos": 49,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_1",
+            "club_actual": "Iran",
+            "posicion": "Mediocampista",
+            "goles": 32,
+            "partidos": 12,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_2",
+            "club_actual": "Iran",
+            "posicion": "Mediocampista",
+            "goles": 20,
+            "partidos": 35,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_3",
+            "club_actual": "Iran",
+            "posicion": "Delantero",
+            "goles": 32,
+            "partidos": 28,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_4",
+            "club_actual": "Iran",
+            "posicion": "Delantero",
+            "goles": 25,
+            "partidos": 14,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_5",
+            "club_actual": "Iran",
+            "posicion": "Portero",
+            "goles": 24,
+            "partidos": 8,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_6",
+            "club_actual": "Iran",
+            "posicion": "Mediocampista",
+            "goles": 30,
+            "partidos": 47,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_8",
+            "club_actual": "Iran",
+            "posicion": "Delantero",
+            "goles": 27,
+            "partidos": 28,
+            "seleccion": "N/A"
+        },
+        {
+            "nombre": "Iran_Jugador_9",
+            "club_actual": "Iran",
+            "posicion": "Defensa",
+            "goles": 32,
+            "partidos": 29,
+            "seleccion": "N/A"
+        }
+    ]
+}

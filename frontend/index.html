@@ -1,21 +1,23 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>vite-jquery-datatable</title>
+    <title>Taller Mundial 2026</title>
   </head>
   <body>
-    <select id="vista">
-      <option value="por_club">Por club</option>
-      <option value="por_partidos">Por partidos</option>
-      <option value="por_goles">Por goles</option>
-    </select>
+    <header>
+      <h1>Estadísticas Jugadores</h1>
+      <select id="vista">
+        <option value="por_club">Vista por Club</option>
+        <option value="por_partidos">Vista por Partidos</option>
+        <option value="por_goles">Vista por Goles</option>
+      </select>
+    </header>
 
-    <input id="filtro" type="text" placeholder="Filtrar por criterio">
+    <main class="container">
+      <table id="tabla-posts" class="display" style="width:100%"></table>
+    </main>
 
-    <table id="tabla-posts"></table>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
